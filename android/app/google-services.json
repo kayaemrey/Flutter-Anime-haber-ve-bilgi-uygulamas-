@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589056897089",
+    "project_id": "animetab-3cf89",
+    "storage_bucket": "animetab-3cf89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589056897089:android:a63c09f110b4292d7516c0",
+        "android_client_info": {
+          "package_name": "com.animetab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589056897089-htv36014kdabug68pectqb2r21orqu7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.animetab",
+            "certificate_hash": "244836c8939e4bea38abd2457c3166dba8e5ea4c"
+          }
+        },
+        {
+          "client_id": "589056897089-hp2jc2n7k5bqgftdlonrrdvusr9m3nab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTrfgsGYsRl33e2n4C82MoGdvZBM0GtBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589056897089-hp2jc2n7k5bqgftdlonrrdvusr9m3nab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
